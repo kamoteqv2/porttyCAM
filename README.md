@@ -21,3 +21,4 @@ Note: Always make sure to exclude or whitelist the program from your antivirus t
 
 **Note**
 Thank you for using porttyCAM! We hope you found this program to be useful. To support our work, please check out our YouTube channel and consider watching and subscribing. Your support means a lot to us!
+https://www.youtube.com/@kamoteqv2
