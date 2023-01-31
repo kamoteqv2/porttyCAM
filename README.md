@@ -1,10 +1,20 @@
 **PorttyCAM**
 ***Stream your ordinary Webcam to your favorite Internet browser***
 
-Instructions to access your webcam stream:
+****Instructions for porttyCAM:****
 
-1. Copy the URL link and paste it in your web browser.
+1. Download the zipped program from the link https://github.com/kamoteqv2/porttyCAM
+2. Extract the contents of the zip file to a location of your choice.
+3. Make sure to exclude or whitelist the program from your antivirus, as it may be mistaken as malware.
+
+****To access your webcam stream:****
+
+1. Copy the URL link below and paste it in your web browser.
 2. Replace the 'webcam_index' value with the desired webcam number to select which webcam to use.
 3. Replace 'width' with the desired width of the camera stream.
-4. Replace 'height' with the desired height of the camera stream.
-5. Hit enter to load the webcam stream.
+5. Replace 'height' with the desired height of the camera stream.
+6. Hit enter to load the webcam stream.
+
+Example webcam URL: http://"localhost_ip:6060/video?webcam_index=0&width=640&height=480
+
+Note: Always make sure to exclude or whitelist the program from your antivirus to avoid any false positive detections.
