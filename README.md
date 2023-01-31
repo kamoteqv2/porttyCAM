@@ -15,6 +15,6 @@
 5. Replace 'height' with the desired height of the camera stream.
 6. Hit enter to load the webcam stream.
 
-Example `webcam URL: http://"localhost_ip:6060/video?webcam_index=0&width=640&height=480`
+Example webcam URL: `http://"localhost_ip:6060/video?webcam_index=0&width=640&height=480`
 
 Note: Always make sure to exclude or whitelist the program from your antivirus to avoid any false positive detections.
