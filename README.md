@@ -20,5 +20,4 @@ Example Webcam URL: `http://"localhost_ip:6060/video?webcam_index=0&width=640&he
 Note: Always make sure to exclude or whitelist the program from your antivirus to avoid any false positive detections.
 
 **Note**
-Thank you for using porttyCAM! We hope you found this program to be useful. To support our work, please check out our YouTube channel and consider watching and subscribing!
-https://www.youtube.com/@kamoteqv2
+Credit: This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and improving DIY technology.
