@@ -19,4 +19,4 @@ Example Webcam URL: `http://"localhost_ip:6060/video?webcam_index=0&width=640&he
 
 Note: Always make sure to exclude or whitelist the program from your antivirus to avoid any false positive detections.
 
-***Credit:*** This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and improving DIY technology.
+***Credit:*** This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and promoting Free DIY technology.
