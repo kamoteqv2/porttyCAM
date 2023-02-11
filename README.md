@@ -1,5 +1,5 @@
 **PorttyCAM**
-***Stream your ordinary Webcam to your favorite Internet browser***
+***Stream your ordinary Webcam to your favorite web browser***
 
 ****Instructions for porttyCAM:****
 
