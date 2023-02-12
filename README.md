@@ -4,8 +4,13 @@
 ****Instructions for porttyCAM:****
 
 <!---1. Download the zipped program from the link https://github.com/kamoteqv2/porttyCAM-->
-1. Extract the contents of the zip file to a location of your choice.
-2. Make sure to exclude or whitelist the program from your antivirus, as it may be mistaken as malware.
+Follow these steps to properly extract and run the program:
+
+1. Unzip the contents of the file to a preferred location on your device.
+2. To ensure the smooth functioning of the program, kindly exclude or whitelist it from your antivirus software to prevent it from being mistaken as malware.
+3. Launch the terminal or command prompt and run it as administrator.
+4. To run the program on the default port 6060, simply type in the command "porttyCAM".
+5. If the default port 6060 is unavailable, you may run the program by typing in "porttyCAM --port PORT", where PORT is any available port on your device.
 
 ****To access your webcam stream:****
 
